@@ -8,10 +8,9 @@
 
 ## Objetivo
 
- - Criar uma calculadora simples com os conhecimentos relativo ao DOM
  - Executar DOM (Document Object Model)
  - Praticar mais a respeito dos meus estudos de Eventos DOM.
- - Compreender mais sobre árvore DOM
+ - Compreender mais sobre a estrutura da árvore DOM
  
  
 
